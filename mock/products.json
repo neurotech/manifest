@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Huarache Varsity Red",
+    "url": "https://www.culturekings.com.au/products/nike-air-huarache-varsity-red",
+    "manual": "",
+    "images": [
+      "https://culture-kings.imgix.net/products/886912251262_default_0020.jpg?v=1633649770&fit=crop&h=1000&w=800&auto=compress,format",
+      "https://culture-kings.imgix.net/products/886912251262_default_0030.jpg?v=1633649770&fit=crop&h=1000&w=800&auto=compress,format"
+    ],
+    "purchaseDate": "2022-01-04T00:43:00.027Z",
+    "purchaseLocation": {
+      "name": "Culture Kings",
+      "url": "https://www.culturekings.com.au/products/nike-air-huarache-varsity-red"
+    },
+    "price": 170,
+    "notes": "I have been waiting ages for these to be back on the market!"
+  },
+  {
+    "id": 2,
+    "name": "Nike Huarache",
+    "url": "https://www.footlocker.com.au/en/product/~/244209495704.html",
+    "manual": "https://www.nike.com/au/t/air-huarache-shoes-kbDR5S",
+    "images": [
+      "https://images.footlocker.com/is/image/FLEU/314214696404_01?wid=519&hei=519&fmt=png-alpha",
+      "https://images.footlocker.com/is/image/FLEU/314214696404_03?wid=519&hei=519&fmt=png-alpha"
+    ],
+    "purchaseDate": "2022-01-04T00:33:00.027Z",
+    "purchaseLocation": {
+      "name": "Hype DC Erina Fair",
+      "url": "https://www.hypedc.com/au/stores/erina"
+    },
+    "price": 141.96,
+    "notes": "I have been waiting ages for these to be back on the market!"
+  }
+]
